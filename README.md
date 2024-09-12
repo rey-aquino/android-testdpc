@@ -58,7 +58,7 @@ You can find various kinds of provisioning methods [here](https://developers.goo
 *   Run the `adb` command:
 
     ```console
-    adb shell dpm mark-profile-owner-on-organization-owned-device --user 10 com.afwsamples.testdpc/.DeviceAdminReceiver`
+    adb shell dpm mark-profile-owner-on-organization-owned-device --user 10 com.afwsamples.testdpc/.DeviceAdminReceiver
     ```
 
 #### TestDPC as DM role holder
